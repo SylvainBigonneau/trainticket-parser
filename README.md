@@ -18,7 +18,7 @@ To run this project, you will just need:
 Simply run `npm install` once
 
 ```
-user@machine $ npm install
+> npm install
 ```
 And you're good to go.
 
