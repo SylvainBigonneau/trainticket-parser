@@ -1,0 +1,19 @@
+{
+  "name": "trainticket-parser",
+  "version": "1.0.0",
+  "description": "Parses html train orders and outputs their summary in json",
+  "main": "index.js",
+  "author": "Sylvain Bigonneau",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SylvainBigonneau/trainticket-parser.git"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "minimist": "^1.2.0"
+  }
+}
