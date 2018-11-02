@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 To run this project, you will just need:
 
-- NodeJS (this was coded with version 10 but should likely work with 8 as well)
+- NodeJS (this was coded with version 10, but should likely work with v8 as well)
 - NPM
 
 ### Installing
@@ -18,13 +18,13 @@ To run this project, you will just need:
 Simply run `npm install` once
 
 ```
-user@machine$ npm install
+user@machine $ npm install
 ```
 And you're good to go.
 
 ### Running the program
 
-Just running `npm start` will read the "test.html" file in the current folder and output it in a "test-result.json" file, *overwriting it without notice*.
+Just running `npm start` will read the "test.html" file in the current folder and output it in a "test-result.json" file, **overwriting it without notice**.
 
 Two optional parameters are available for this program:
 
